@@ -32,4 +32,8 @@
 ![Heru GitHub stats](https://github-readme-stats.vercel.app/api?username=herukurniawann&theme=algolia&show_icons=true)
                                                                           
                                                                                                                        
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herukurniawann&theme=blue-green" alt="data"/>
 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=robbypambudi&color=blue" alt="Views on Github" />
