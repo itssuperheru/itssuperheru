@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Heru Dwi Kurniawan</h1>
 <h3 align="center">A Beginner and Trying To Catch Up</h3>
 
-- 🌱 I’m currently learning **Working on Website Designer and UI/UX Designer**
+- 👨🏻‍💻 I’m currently learning **Working on Website Designer and UI/UX Designer**
 
-- 📫 How to reach me **herukurniawan1610@gmail.com**
+- How to reach me:
+- 📩 **herukurniawan1610@gmail.com**
+ 📍 **@ui_bywan**
 
 - ⚡ *Beginner & Learner*
 
