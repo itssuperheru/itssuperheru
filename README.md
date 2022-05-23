@@ -9,7 +9,7 @@
 
 <h3 align="left">Contact Me with:</h3>
 <p align="left">
-<a href="linkedin.com/in/heru-dwi-kurniawan-76b05b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heru Dwi Kurniawan" height="30" width="40" /></a>
+<a href="linkedin.com/in/heru-dwi-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heru Dwi Kurniawan" height="30" width="40" /></a>
 <a href="https://instagram.com/herukurniawaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herukurniawaaan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/luckwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luckwan" height="30" width="40" /></a>
 
