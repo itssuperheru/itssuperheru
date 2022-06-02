@@ -5,7 +5,7 @@
 
 - 📍 How to reach me: **herukurniawan1610@gmail.com** & **@ui_bywan**
 
-- ⚡ *Beginner & Learner*
+- ⭐ *Beginner & Learner*
 
 <h3 align="left">Contact Me with:</h3>
 <p align="left">
