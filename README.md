@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I’m currently learning **Working on Website Designer and UI/UX Designer**
 
-- 📍 How to reach me: **herukurniawan1610@gmail.com** & **@ui_bywan**
+- 📍 How to reach me: **@ui_bywan**
 
 - ⭐ *Beginner & Learner*
 
