@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heru Dwi Kurniawan</h1>
 <h3 align="center">A Little Boy With Big Dreams</h3>
 
-- 👨🏻‍💻 I’m currently learning **Working on Website Designer and UI/UX Designer**
+- 👨🏻‍💻 I’m currently learning **Working on Website Developer, UI/UX Designer and Data Analyst**
 
 - 📍 How to reach me: **@ui_bywan**
 
