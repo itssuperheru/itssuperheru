@@ -29,12 +29,12 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>    
 </div>  
 
-![Heru GitHub stats](https://github-readme-stats.vercel.app/api?username=herukurniawann&theme=algolia&show_icons=true)
+![Heru GitHub stats](https://github-readme-stats.vercel.app/api?username=itssuperheru&theme=algolia&show_icons=true)
                                                                           
                                                                                                                        
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herukurniawann&theme=blue-green" alt="data"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&theme=blue-green" alt="data"/>
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=herukurniawann&color=blue" alt="Views on Github" />
+<img src="https://komarev.com/ghpvc/?username=itssuperheru&color=blue" alt="Views on Github" />
 
