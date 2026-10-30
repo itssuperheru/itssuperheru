@@ -3,7 +3,7 @@
 
 # Hi, I'm Heru Kurniawan 👋
 
-### UI/UX Designer | Product Designer | Informatics Engineering Graduate
+### UI/UX Designer | Product Designer | Front End Developer | Quality Assurance
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=itssuperheru&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
