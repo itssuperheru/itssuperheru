@@ -45,16 +45,59 @@ I enjoy transforming complex problems into intuitive, user-friendly, and visuall
 
 Technologies and tools I use and explore.
 
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,react,nextjs,vue,bootstrap,vscode,figma,git,dribbble,canva&theme=dark&perline=5"
-    alt="Languages and Tools"
-  />
-</a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" alt="C++"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" alt="C"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" alt="HTML5"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" alt="CSS3"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="64" alt="TypeScript"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" alt="React"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="64" alt="Next.js"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="64" alt="Vue.js"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="64" alt="Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" alt="VS Code"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="64" alt="Figma"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" alt="Git"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="64" height="64" alt="Dribbble"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="32" alt="Canva"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,10 +105,7 @@ Technologies and tools I use and explore.
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&theme=blue-green"
-  alt="Most Used Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&theme=blue-green" alt="Most Used Languages" />
 
 </div>
 
