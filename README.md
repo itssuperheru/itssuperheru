@@ -45,59 +45,25 @@ I enjoy transforming complex problems into intuitive, user-friendly, and visuall
 
 Technologies and tools I use and explore.
 
-<table width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" alt="C++"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" alt="C"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" alt="HTML5"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" alt="CSS3"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" alt="JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="64" alt="TypeScript"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" alt="React"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="64" alt="Next.js"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="64" alt="Vue.js"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="64" alt="Bootstrap"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" alt="VS Code"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="64" alt="Figma"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" alt="Git"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="64" height="64" alt="Dribbble"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="32" alt="Canva"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img height="48" src="https://img.shields.io/badge/C++-0D1B2A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++"/>
+<img height="48" src="https://img.shields.io/badge/C-0D1B2A?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+<img height="48" src="https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img height="48" src="https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img height="48" src="https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img height="48" src="https://img.shields.io/badge/TypeScript-0D1B2A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img height="48" src="https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img height="48" src="https://img.shields.io/badge/Next.js-0D1B2A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
+<img height="48" src="https://img.shields.io/badge/Vue.js-0D1B2A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+<img height="48" src="https://img.shields.io/badge/Bootstrap-0D1B2A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap"/>
+<img height="48" src="https://img.shields.io/badge/VS_Code-0D1B2A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+<img height="48" src="https://img.shields.io/badge/Figma-0D1B2A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+<img height="48" src="https://img.shields.io/badge/Dribbble-0D1B2A?style=for-the-badge&logo=dribbble&logoColor=EA4C89" alt="Dribbble"/>
+<img height="48" src="https://img.shields.io/badge/Canva-0D1B2A?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva"/>
+<img height="48" src="https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+
+</div>
 
 ---
 
