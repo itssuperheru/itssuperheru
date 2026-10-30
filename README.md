@@ -6,19 +6,17 @@
 
 <p><b>UI/UX Designer | Product Designer | Frontend Developer</b></p>
 
-<p>
-Creating meaningful digital experiences through design and technology.
-</p>
+<p>Creating meaningful digital experiences through design and technology.</p>
 
 <a href="https://superheru-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-### 👨🏻‍💻 About Me
+<h2>👨🏻‍💻 About Me</h2>
 
 - 🎨 Passionate about **UI/UX Design, Product Design, and Frontend Development**.
 - 🎓 Informatics Engineering Graduate from **Institut Teknologi Sepuluh Nopember (ITS)**.
@@ -28,49 +26,124 @@ Creating meaningful digital experiences through design and technology.
 
 ---
 
-### 🤝 Contact Me With
+<h2>🤝 Contact Me With</h2>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
 <a href="https://linkedin.com/in/heru-dwi-kurniawan-76b05b216">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn"/>
+<br/><br/>
+<b>LinkedIn</b>
 </a>
+<br/>
+<sub>Heru Dwi Kurniawan</sub>
+
+</td>
+
+<td align="center" width="33%">
 
 <a href="https://instagram.com/herukurniawaaan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram"/>
+<br/><br/>
+<b>Instagram</b>
 </a>
+<br/>
+<sub>@herukurniawaaan</sub>
+
+</td>
+
+<td align="center" width="33%">
 
 <a href="https://www.hackerrank.com/luckwan">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="38" height="38" alt="HackerRank"/>
+<br/><br/>
+<b>HackerRank</b>
 </a>
+<br/>
+<sub>/luckwan</sub>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Languages and Tools
+<h2>🛠️ Languages and Tools</h2>
 
-<div align="center">
+<p>Technologies and tools I use and explore.</p>
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36" alt="C++"/>
+<br/><b>C++</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/c/A8B9CC" width="36" height="36" alt="C"/>
+<br/><b>C</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5"/>
+<br/><b>HTML5</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3"/>
+<br/><b>CSS3</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"/>
+<br/><b>JavaScript</b>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript"/>
+<br/><b>TypeScript</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/>
+<br/><b>React</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="36" height="36" alt="Next.js"/>
+<br/><b>Next.js</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="36" height="36" alt="Vue.js"/>
+<br/><b>Vue.js</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="36" height="36" alt="Bootstrap"/>
+<br/><b>Bootstrap</b>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-</div>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="36" height="36" alt="VS Code"/>
+<br/><b>VS Code</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma"/>
+<br/><b>Figma</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="36" height="36" alt="Dribbble"/>
+<br/><b>Dribbble</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="Canva"/>
+<br/><b>Canva</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/>
+<br/><b>Git</b>
+</td>
+</tr>
+</table>
 
 ---
 
