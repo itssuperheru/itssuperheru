@@ -47,17 +47,12 @@ Technologies and tools I use and explore.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,react,nextjs,vue,bootstrap,vscode,figma,git&theme=dark&perline=6" alt="Programming Languages and Tools" />
-
-</div>
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="48" height="48" alt="Dribbble" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
-
-<p>Dribbble &nbsp;&nbsp;&nbsp; Canva</p>
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,react,nextjs,vue,bootstrap,vscode,figma,git,dribbble,canva&theme=dark&perline=5"
+    alt="Languages and Tools"
+  />
+</a>
 
 </div>
 
@@ -67,7 +62,10 @@ Technologies and tools I use and explore.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&theme=blue-green" alt="Most Used Languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&theme=blue-green"
+  alt="Most Used Languages"
+/>
 
 </div>
 
