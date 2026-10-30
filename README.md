@@ -1,23 +1,46 @@
 
-<h1 align="center">Hi 👋, I'm Heru Kurniawan</h1>
-<h3 align="center">A Little Boy With Big Dreams</h3>
+<div align="center">
 
-- 👨🏻‍💻 I'm passionate about **UI/UX Design, Product Design, and Frontend Development**
-- 🎓 Informatics Engineering Graduate from **Institut Teknologi Sepuluh Nopember**
+# Hi 👋, I'm Heru Kurniawan
+
+### A Little Boy With Big Dreams 🚀
+
+**UI/UX Designer | Product Designer | Frontend Development**
+
+Creating meaningful digital experiences through design and technology.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://superheru-portfolio.vercel.app/)
+
+</div>
+
+---
+
+### 👨🏻‍💻 About Me
+
+- 🎨 Passionate about **UI/UX Design, Product Design, and Frontend Development**.
+- 🎓 Informatics Engineering Graduate from **Institut Teknologi Sepuluh Nopember (ITS)**.
+- 💡 Interested in creating intuitive and user-centered digital experiences.
 - 📍 How to reach me: **@ui_bywan**
 - ⭐ *Always Learning & Growing*
 
-<h3 align="left">Contact Me with:</h3>
+---
 
-<p align="left">
-<a href="https://linkedin.com/in/heru-dwi-kurniawan-76b05b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heru Dwi Kurniawan" height="30" width="40" /></a>
-<a href="https://instagram.com/herukurniawaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/luckwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+### 🤝 Connect With Me
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
 
-<div align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heru-dwi-kurniawan-76b05b216)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/herukurniawaaan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/luckwan)
+
+</div>
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -28,24 +51,45 @@
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
 </div>
 
-<br/>
+---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itssuperheru&theme=algolia&show_icons=true" alt="Heru GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&theme=blue-green" alt="Heru Most Used Languages"/>
-</p>
-
-<br/>
+### 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=itssuperheru&color=blue" alt="Views on Github"/>
+
+<a href="https://github.com/itssuperheru">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=itssuperheru&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Heru GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/itssuperheru">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&layout=compact&theme=algolia&hide_border=true" alt="Heru Most Used Languages"/>
+</a>
+
 </div>
 
-<h3 align="center">✨ Always Learning, Always Growing ✨</h3>
+---
+
+### 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=itssuperheru&theme=algolia&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=itssuperheru&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+### ✨ Always Learning, Always Growing ✨
+
+*Dream big. Design better. Build meaningful things.*
+
+</div>
