@@ -76,9 +76,7 @@ Creating meaningful digital experiences through design and technology.
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itssuperheru&theme=algolia&show_icons=true" alt="Heru GitHub Stats"/>
-</p>
+<h3 align="center">Most Used Languages</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssuperheru&theme=blue-green" alt="Heru Most Used Languages"/>
